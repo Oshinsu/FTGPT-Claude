@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Comment m'inscrire à France Travail ?",
+        "answer": "Pour vous inscrire à France Travail, rendez-vous sur francetravail.fr et créez votre espace personnel. Remplissez le formulaire d'inscription en ligne, puis prenez rendez-vous avec un conseiller. N'oubliez pas de vous munir de votre pièce d'identité, justificatif de domicile, CV et RIB lors du rendez-vous.",
+        "category": "inscription"
+    },
+    {
+        "question": "Quand et comment m'actualiser ?",
+        "answer": "L'actualisation se fait chaque mois entre le 28 et le 15 du mois suivant sur votre espace personnel. Connectez-vous, cliquez sur 'M'actualiser', déclarez votre situation et les heures travaillées si vous avez eu une activité. Cette actualisation est obligatoire pour maintenir votre inscription et percevoir vos allocations.",
+        "category": "actualisation"
+    },
+    {
+        "question": "Quelles sont les conditions pour toucher l'ARE ?",
+        "answer": "Pour bénéficier de l'Allocation de Retour à l'Emploi (ARE), vous devez avoir travaillé au moins 6 mois (130 jours ou 910 heures) sur les 24 derniers mois (36 mois si vous avez plus de 53 ans). Vous devez être inscrit comme demandeur d'emploi, rechercher activement un emploi et ne pas avoir atteint l'âge de la retraite.",
+        "category": "allocations"
+    },
+    {
+        "question": "Comment utiliser mon CPF ?",
+        "answer": "Le Compte Personnel de Formation (CPF) vous permet de financer des formations. Connectez-vous sur moncompteformation.gouv.fr pour consulter vos droits acquis. Recherchez une formation éligible, inscrivez-vous directement en ligne et utilisez vos droits pour la financer. Vous cumulez 500€ par an (plafond 5000€) ou 800€ si vous êtes peu qualifié.",
+        "category": "formation"
+    },
+    {
+        "question": "Qu'est-ce que le CEP ?",
+        "answer": "Le Conseil en Évolution Professionnelle (CEP) est un service gratuit et personnalisé d'accompagnement pour faire le point sur votre situation professionnelle et construire votre projet. Il est accessible à tous les actifs et vous aide à identifier vos compétences, définir votre projet et trouver les formations adaptées.",
+        "category": "orientation"
+    }
+]
