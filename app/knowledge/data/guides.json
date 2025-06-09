@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Guide de l'inscription à France Travail",
+        "category": "inscription",
+        "content": "L'inscription à France Travail est la première étape pour bénéficier de l'accompagnement et des services. Voici le processus complet :\n\n1. Préinscription en ligne : Rendez-vous sur francetravail.fr et créez votre espace personnel. Remplissez le formulaire avec vos informations personnelles, votre parcours professionnel et votre projet.\n\n2. Documents à préparer : Pièce d'identité valide, justificatif de domicile de moins de 3 mois, RIB, carte vitale, CV actualisé, certificats de travail ou attestations employeur, diplômes.\n\n3. Rendez-vous d'inscription : Après la préinscription, vous recevrez une convocation pour un entretien. Ce rendez-vous est obligatoire et permet de valider votre inscription, définir votre projet professionnel et établir votre PPAE (Projet Personnalisé d'Accès à l'Emploi).\n\n4. Suivi personnalisé : Selon votre profil, vous serez orienté vers un accompagnement adapté (suivi, guidé ou renforcé).",
+        "tags": ["inscription", "démarches", "documents"],
+        "last_updated": "2025-01-15"
+    },
+    {
+        "title": "Comprendre et optimiser ses allocations chômage",
+        "category": "allocations",
+        "content": "L'Allocation de Retour à l'Emploi (ARE) est calculée selon des règles précises :\n\n1. Conditions d'éligibilité : Avoir travaillé au minimum 6 mois (130 jours ou 910 heures) au cours des 24 derniers mois (36 mois pour les plus de 53 ans). Être involontairement privé d'emploi. Être inscrit comme demandeur d'emploi.\n\n2. Calcul du montant : L'ARE est calculée à partir du Salaire Journalier de Référence (SJR). Le montant journalier est le plus élevé entre : 57% du SJR ou 40,4% du SJR + 12,47€. Le montant minimum est de 30,42€ par jour.\n\n3. Durée d'indemnisation : Elle correspond au nombre de jours travaillés x 1,4. La durée minimale est de 182 jours (6 mois) et maximale de 730 jours (24 mois), ou 913 jours (30 mois) pour les 53-54 ans, et 1095 jours (36 mois) pour les 55 ans et plus.\n\n4. Cumul emploi-chômage : Possible sous conditions. Les revenus d'activité sont déduits de l'allocation selon la formule : Allocation mensuelle - (70% du salaire brut).",
+        "tags": ["allocations", "ARE", "calcul", "droits"],
+        "last_updated": "2025-01-20"
+    },
+    {
+        "title": "Réussir sa recherche d'emploi : méthodes et outils",
+        "category": "recherche_emploi",
+        "content": "Une recherche d'emploi efficace nécessite méthode et organisation :\n\n1. Définir son projet : Identifiez vos compétences, vos valeurs et vos aspirations. Définissez 2-3 métiers cibles et les secteurs d'activité visés.\n\n2. CV et lettre de motivation : Adaptez systématiquement vos candidatures au poste visé. Utilisez des mots-clés du secteur. Quantifiez vos réalisations. Soignez la mise en page.\n\n3. Canaux de recherche : Utilisez France Travail et les jobboards spécialisés. Activez votre réseau professionnel et personnel. Candidatures spontanées ciblées. Participez aux forums et salons de l'emploi.\n\n4. Entretien d'embauche : Préparez-vous en vous renseignant sur l'entreprise. Entraînez-vous aux questions classiques. Préparez des exemples concrets de vos réalisations. Soignez votre présentation.\n\n5. Suivi des candidatures : Tenez un tableau de bord de vos candidatures. Relancez après 10-15 jours sans réponse. Analysez les retours pour vous améliorer.",
+        "tags": ["recherche", "CV", "entretien", "candidature"],
+        "last_updated": "2025-01-18"
+    },
+    {
+        "title": "Les aides à la mobilité pour l'emploi",
+        "category": "aides",
+        "content": "France Travail propose plusieurs aides pour faciliter votre mobilité dans le cadre de votre recherche d'emploi ou reprise d'activité :\n\n1. Aide aux déplacements : Prise en charge des frais de transport pour se rendre à un entretien d'embauche (bons de transport SNCF, indemnités kilométriques). Montant variable selon la distance.\n\n2. Aide au déménagement : Si vous trouvez un emploi à plus de 60 km ou 1h30 de trajet, vous pouvez bénéficier d'une aide jusqu'à 1500€ pour vos frais de déménagement.\n\n3. Aide à la garde d'enfants (AGEPI) : Pour les parents isolés ou couples avec enfants de moins de 10 ans. Montant de 170€ à 520€ selon le nombre d'enfants et la durée de travail.\n\n4. Aide au permis de conduire : Jusqu'à 1200€ pour financer le permis B si c'est nécessaire pour votre projet professionnel.\n\n5. Aide à la mobilité internationale : Pour les projets professionnels à l'étranger (prospection, emploi, stage).",
+        "tags": ["aides", "mobilité", "transport", "déménagement"],
+        "last_updated": "2025-01-22"
+    },
+    {
+        "title": "La formation professionnelle avec France Travail",
+        "category": "formation",
+        "content": "France Travail vous accompagne dans votre projet de formation :\n\n1. Types de formations : Formations certifiantes ou diplômantes. Formations de remise à niveau. Formations d'adaptation au poste. VAE (Validation des Acquis de l'Expérience).\n\n2. Financement : Compte Personnel de Formation (CPF). Aide Individuelle à la Formation (AIF) de France Travail. Action de Formation Conventionnée (AFC). Contrats en alternance.\n\n3. Rémunération pendant la formation : AREF (Allocation de Retour à l'Emploi Formation) si vous percevez l'ARE. RFPE (Rémunération de Formation France Travail) sinon. RFF (Rémunération de Fin de Formation) dans certains cas.\n\n4. Démarches : Définir votre projet avec votre conseiller. Rechercher une formation sur francetravail.fr ou moncompteformation.gouv.fr. Valider le plan de financement. Obtenir l'accord de France Travail avant l'entrée en formation.\n\n5. Formations prioritaires : Métiers en tension, compétences numériques, transition écologique.",
+        "tags": ["formation", "CPF", "financement", "rémunération"],
+        "last_updated": "2025-01-25"
+    }
+]
